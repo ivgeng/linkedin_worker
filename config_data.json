@@ -1,0 +1,28 @@
+{
+
+    "Login_Data" : 
+    {
+        "URL":"https://www.linkedin.com/",
+        "Username":"",
+        "Password":""
+    },
+    "Work_Experience_Data":
+    {
+        "Title":"Junior software engineer",
+        "CompanyName":"Neyho Informatika d.o.o.",
+        "StartDate_Month":"May",
+        "StartDate_Year":"2022",
+        "Industry":"Software Development"
+    },
+    "Job_Search_Input":
+    {
+        "Position":"Software developer intern",
+        "Country":"Croatia"    
+    },
+    "Message_Info":
+    {
+        "Desired_Contacts": ["Ivan Geng","Silvio Putak"],
+        "Message":"Hi,\n\n\nMy name is Robert Robotic and this is a test message."
+    }
+
+}
