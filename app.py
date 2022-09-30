@@ -9,7 +9,7 @@ from selenium.webdriver.common.keys import Keys
 from webdriver_manager.chrome import ChromeDriverManager
 
 #config_data.json file path
-config_file_path = "D:\Python projects\Environments\linkedin_worker\config_data.json"
+config_file_path = "D:\Path\to\config_data.json"
 
 #read config_data.json and store values
 with open(config_file_path,'r') as config_data:
